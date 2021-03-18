@@ -13,6 +13,3 @@ From the command line, run `python create_sales_data.py`. This will generate twe
 
 ### Step 3: Merge the data files into one dataset.
 From the command line, run `python merge_sales_data.py` to stitch the twelve `.csv` files into one `sales_data.csv` dataset that you can explore in the `ExploreDataset.ipynb` notebook.
-
-
-You may contact me at `mriverrose@gmail.com`.
