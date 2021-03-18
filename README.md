@@ -1,10 +1,10 @@
 # Generate and Visualize a Dataset
-## Overview.
+## Overview
 The `ExploreDataset.ipynb` is the Python notebook that shows how we can explore the `sales_data.csv` file we generated with the `create_sales_data.py` script. 
 
 In the notebook, we look at sales by product, state, sex, and age group, as well as when products are most frequently sold, which products are purchased together, and which age groups prefer certain products. Look at the `.png` files in [NotebookPlotlyImages](https://github.com/mriverrose/GenerateVisualizeData/tree/master/NotebookPlotlyImages) to see how we visualized the data.
 
-## Steps for generating a dataset.
+## Steps for generating a dataset
 ### Step 1: Set the weights and products.
 In the `create_sales_data.py` file, set the product and product and address weights as you desire. This will determine how the data will come out when you visualize it. I.e., you can make any product and set the weights to determine who buys it, how often, and so forth.
 
